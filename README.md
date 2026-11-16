@@ -165,7 +165,7 @@ All scan results are persisted in a PostgreSQL database, enabling users to revie
 ## Project Structure
 
 ```
-pet_disease/
+petcare-ai/
 ├── app/
 │   ├── config/
 │   │   └── settings.py            # Pydantic-based app configuration
@@ -241,7 +241,7 @@ Before setting up the project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SahanaK17/pet_disease.git
+git clone https://github.com/SahanaK17/petcare-ai.git
 cd pet_disease
 ```
 
