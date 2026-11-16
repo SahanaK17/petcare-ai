@@ -331,6 +331,8 @@ S3_BUCKET_BBOX=
 | `S3_BUCKET_IMAGES` | No | S3 bucket name for original images |
 | `S3_BUCKET_BBOX` | No | S3 bucket name for bounding-box JSON |
 
+Note: Gemini model availability changes over time. If you get a model-not-found error, set GEMINI_MODEL_PRIMARY and GEMINI_MODEL_FALLBACK to a currently supported model (see Google’s Gemini API deprecations page).
+
 ---
 
 ## Running the Application
