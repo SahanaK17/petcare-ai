@@ -242,7 +242,7 @@ Before setting up the project, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/SahanaK17/petcare-ai.git
-cd pet_disease
+cd petcare-ai
 ```
 
 ### 2. Create a Python Virtual Environment
